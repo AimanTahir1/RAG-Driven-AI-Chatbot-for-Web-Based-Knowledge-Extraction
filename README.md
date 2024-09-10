@@ -48,10 +48,12 @@ Welcome to the **Intelligent Chatbot-Powered Website-Based Question Answering Sy
 ## 🎮 Usage
 
 Once the environment is set up, you can generate answers to questions based on website content.
-```bash
-docs = load_docs('https://example.com')
-answer = gen_answer('https://example.com', 'Your question here')
-print(answer)
+   ```bash
+   docs = load_docs('https://example.com')
+   answer = gen_answer('https://example.com', 'Your question here')
+   print(answer)
+
+
 
 ## 🤝 Contributing
 
