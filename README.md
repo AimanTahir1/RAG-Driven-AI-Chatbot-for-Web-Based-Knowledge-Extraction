@@ -55,7 +55,8 @@ Once the environment is set up, you can generate answers to questions based on w
 
 
 
-## 🤝 Contributing
+## 🤝 Contributing 
+## 🤝 Installation
 
 I welcome contributions! Feel free to open issues or pull requests. For major changes, please open an issue first to discuss what you would like to change. Don’t forget to give the project a star ⭐ if you find it helpful!
 
