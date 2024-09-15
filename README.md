@@ -1,4 +1,4 @@
-# 🧠 Intelligent Chatbot-Powered Website-Based Question Answering System Using RAG and LLM
+# 💡 Intelligent Chatbot-Powered Website-Based Question Answering System Using RAG and LLM
 
 Welcome to the **Intelligent Chatbot-Powered Website-Based Question Answering System**! This project harnesses the power of **Large Language Models (LLMs)**, specifically OpenAI’s GPT-4, and **Retrieval-Augmented Generation (RAG)** to create an intelligent, context-aware chatbot. It is designed to provide accurate, insightful responses to user queries based on live web content. Whether you're developing a knowledge base, enhancing customer support, or simply offering web-based insights, this system is here to help!
 
@@ -52,8 +52,5 @@ Once the environment is set up, you can generate answers to questions based on w
    docs = load_docs('https://example.com')
    answer = gen_answer('https://example.com', 'Your question here')
    print(answer)
-'''bash
 
 
-## 💡 conclusion
-With the Intelligent Chatbot-Powered Q&A System, bring the future of web-based knowledge extraction and customer support to your platform!
