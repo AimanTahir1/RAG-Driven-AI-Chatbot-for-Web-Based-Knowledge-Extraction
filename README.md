@@ -52,7 +52,7 @@ Once the environment is set up, you can generate answers to questions based on w
    docs = load_docs('https://example.com')
    answer = gen_answer('https://example.com', 'Your question here')
    print(answer)
-
+'''bash
 
 
 ## 💡 conclusion
