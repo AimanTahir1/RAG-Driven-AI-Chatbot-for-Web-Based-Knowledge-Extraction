@@ -4,12 +4,12 @@ Welcome to the **Intelligent Chatbot-Powered Website-Based Question Answering Sy
 
 ## 🌟 Key Features
 
-- **🔍 Retrieval-Augmented Generation (RAG)**: Combines document retrieval with LLM-based response generation for more accurate, contextual answers.
-- **🌐 Website Content Integration**: Seamlessly load, split, and index web-based documents for easy search and retrieval.
-- **🤖 Chatbot Interface**: Provides a conversational interface for users to ask questions and get fact-based answers.
-- **📄 Vector Store Creation**: Converts text chunks into embeddings using OpenAI’s state-of-the-art embeddings API and stores them in a vector database.
-- **🧩 Modular & Extensible**: Easily adaptable to new document sources or expanded functionality.
-- **⚡ Efficient & Scalable**: Handles large volumes of content and queries with optimized performance.
+- ** Retrieval-Augmented Generation (RAG)**: Combines document retrieval with LLM-based response generation for more accurate, contextual answers.
+- ** Website Content Integration**: Seamlessly load, split, and index web-based documents for easy search and retrieval.
+- ** Chatbot Interface**: Provides a conversational interface for users to ask questions and get fact-based answers.
+- ** Vector Store Creation**: Converts text chunks into embeddings using OpenAI’s state-of-the-art embeddings API and stores them in a vector database.
+- ** Modular & Extensible**: Easily adaptable to new document sources or expanded functionality.
+- ** Efficient & Scalable**: Handles large volumes of content and queries with optimized performance.
 
 ## 🚀 How It Works
 
@@ -54,11 +54,6 @@ Once the environment is set up, you can generate answers to questions based on w
    print(answer)
 
 
-
-## 🤝 Contributing 
-
-
-I welcome contributions! Feel free to open issues or pull requests. For major changes, please open an issue first to discuss what you would like to change. Don’t forget to give the project a star ⭐ if you find it helpful!
 
 ## 💡 conclusion
 With the Intelligent Chatbot-Powered Q&A System, bring the future of web-based knowledge extraction and customer support to your platform!
